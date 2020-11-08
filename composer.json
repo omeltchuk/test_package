@@ -10,5 +10,11 @@
     }
   ],
   "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+  },
+  "autoload-dev": {
   }
 }
