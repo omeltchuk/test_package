@@ -1,0 +1,14 @@
+{
+  "name": "omeltchuk/test_package",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander",
+      "email": "alexander.omeltchuk@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
